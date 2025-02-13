@@ -1,0 +1,9 @@
+.DS_STORE
+_SUCCESS
+._SUCCESS.crc
+*.csv
+*.parquet
+*.csv.crc
+__MACOSX
+.ipynb_checkpoints
+.env
